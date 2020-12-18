@@ -37,7 +37,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/helghast619/helghast619">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helghast619&layout=compact" height="182"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helghast619&layout=compact" height="100" />
 </a>
 <a href="https://github.com/helghast619/helghast619">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helghast619&show_icons=true&count_private=true&theme=light" alt="Saroj's GitHub Stats" height="182"/>
