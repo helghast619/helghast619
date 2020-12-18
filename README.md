@@ -34,3 +34,14 @@
 <a href="https://www.oracle.com/in/database/technologies/appdev/sql.html" target="blank"><img align="center" src="https://img.shields.io/badge/Oracle-Sql-blue?style=plastic&logo=Oracle" /></a>
 <a href="https://www.oracle.com/in/database/technologies/appdev/plsql.html" target="blank"><img align="center" src="https://img.shields.io/badge/Oracle-plsql-blue?style=plastic&logo=Oracle" /></a>
 </p>
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/helghast619/helghast619">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helghast619&layout=compact" height="182"/>
+</a>
+<a href="https://github.com/helghast619/helghast619">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helghast619&show_icons=true&count_private=true&theme=light" alt="Saroj's GitHub Stats" height="182"/>
+</a>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sanamsritam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sanamsritam" /></a></p><br><br>
