@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BWYgDLLKoEkzDpYLnnXHiB8S5iuD9uhC/view?usp=sharing)
 
-- ⚡ My Visual Resume [Click] (https://public.tableau.com/app/profile/saroj2005/viz/Resume_16451820729010/Dashboard1)
+- ⚡ My Visual Resume [Click](https://public.tableau.com/app/profile/saroj2005/viz/Resume_16451820729010/Dashboard1)
 
 - ⚡ My Tableau Vizs [Click Here](https://public.tableau.com/app/profile/saroj2005)
 
