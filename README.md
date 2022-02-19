@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helghast619&label=Profile%20views&color=0e75b6&style=flat" alt="helghast619" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **New things in Data Science**
 
-- 💬 Ask me about **Text Discourse, Machine Learning, Network Data**
+- 💬 Ask me about **NLP, Machine Learning, Data Science**
 
 - 📫 How to reach me **writesaroj619@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YKQIXDdbOwzgwSnXTmfn6zD_b_KljTsg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BWYgDLLKoEkzDpYLnnXHiB8S5iuD9uhC/view?usp=sharing)
+
+- ⚡ My Visual Resume [Click] (https://public.tableau.com/app/profile/saroj2005/viz/Resume_16451820729010/Dashboard1)
+
+- ⚡ My Tableau Vizs [Click Here](https://public.tableau.com/app/profile/saroj2005)
 
 - ⚡ Fun fact **Cool, Passionate, Helpful**
 
